@@ -52,24 +52,30 @@ Lihat seluruh screenshot pada folder:
 
 [📸 Buka Galeri Screenshot](screenshots/)
 
-## 🎬 Video Demonstrasi
 
-Video demo akan ditambahkan setelah proses perekaman selesai.
+## 🎬 Video Demonstrasi Aplikasi
 
-## 🔄 Alur Navigasi
+Video demonstrasi Aplikasi Profil Mahasiswa
+menggunakan Kotlin, Jetpack Compose,
+Navigation, Lifecycle, dan ViewModel.
 
-```text
-Beranda
-  |
-  +-- Profil Mahasiswa
-  |     +-- Edit Profil
-  |
-  +-- Detail Mata Kuliah
-  |     +-- Checklist Materi
-  |
-  +-- Kontak Mahasiswa
-        +-- Edit Kontak
-```
+### ▶️ Tonton Video Demo
+
+[**KLIK DI SINI UNTUK MENONTON VIDEO DEMO**](https://github.com/wisnuwardhana822/ProfilMahasiswa-WisnuWardhana/releases/tag/v1.0.0)
+
+Video tersedia pada bagian **Assets** di halaman Release.
+
+### Fitur yang Didemonstrasikan
+
+- Dashboard Mahasiswa
+- Profil dan Edit Biodata
+- Detail Mata Kuliah
+- Checklist dan Progres Pembelajaran
+- Kontak Mahasiswa
+- Bottom Navigation
+- Pengujian Rotasi Layar
+- Pengujian Tombol Kembali
+
 
 ## ✅ Hasil Pengujian
 
